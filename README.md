@@ -1,2 +1,2 @@
 # BookManagment
-it work like a library automation system
+it works like a library automation system
